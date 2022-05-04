@@ -2,10 +2,10 @@ import setuptools
 
 setuptools.setup (
   include_package_data = True,
-  name='uhm',
+  name='uhm123',
   version='0.4.0',
-  description='oss practice',
-  author='KBJ',
+  description='oss practice0502',
+  author='Kim-qjaJ',
   author_email='neom9245@gmail.com',
   url="https://github.com/Kim-qjaJ/practice"
   download_url="https://github.com/Kim-qjaJ/practice/archive/refs/tags/v0.4.0.zip",
